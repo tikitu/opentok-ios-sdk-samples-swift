@@ -8,6 +8,7 @@
 
 import UIKit
 import OpenTok
+import ArgumentParser
 
 // *** Fill the following variables using your own Project info  ***
 // ***            https://tokbox.com/account/#/                  ***
